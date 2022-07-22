@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:soltude@gmail.com"
+      url: #"mailto:soltude@gmail.com"
       # url: "mailto:your.name@email.com"
     - label: "Website"                            # 표시되는 이름입니다.
       icon: "fas fa-fw fa-link"                   # fab fa-fw fa-{SNS NAME} 으로 해주세요.
